@@ -2,7 +2,8 @@
 
 ## Usage
 
-```from fileIO import FileIO
+```
+from fileIO import FileIO
 
 def main():
     print("Iniciando...")
@@ -11,4 +12,5 @@ def main():
     print(vec)
 
 if __name__ == '__main__':
-    main()```
+    main()
+```
